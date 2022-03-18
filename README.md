@@ -11,3 +11,5 @@ Finally,  the  structural  types,  characteristicparameters  and  arrangements  
 
 ![surface](https://github.com/LiLiu1118/Bachelorarbeit/blob/main/surface.jpg)
 
+![simulation](https://github.com/LiLiu1118/Bachelorarbeit/blob/main/simulation.jpg)
+
