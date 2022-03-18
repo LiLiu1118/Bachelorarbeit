@@ -8,3 +8,6 @@ Firstly,  the  overall  design  scheme  of  the  unmanned  electric  vehicle  is
 Then the main technical parameters of the vehicle, including dimensions, quality and performance parameters are determined. 
 
 Finally,  the  structural  types,  characteristicparameters  and  arrangements  of  the  main assemblies of the chassis are determined. Through the vehicle design calculation and analysis, it is ensured that the vehicle has reasonable power, driving range, braking performance, steering stability, driving comfort and passability
+
+![surface](https://github.com/LiLiu1118/Bachelorarbeit/blob/main/surface.jpg)
+
