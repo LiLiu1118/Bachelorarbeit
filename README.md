@@ -13,3 +13,7 @@ Finally,  the  structural  types,  characteristicparameters  and  arrangements  
 
 ![simulation](https://github.com/LiLiu1118/Bachelorarbeit/blob/main/simulation.jpg)
 
+<p float="left">
+  <img src="https://github.com/LiLiu1118/Bachelorarbeit/blob/main/surface.jpg" width="100" />
+  <img src="https://github.com/LiLiu1118/Bachelorarbeit/blob/main/simulation.jpg" width="100" /> 
+</p>
