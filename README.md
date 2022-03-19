@@ -9,6 +9,7 @@ Then the main technical parameters of the vehicle, including dimensions, quality
 
 Finally,  the  structural  types,  characteristicparameters  and  arrangements  of  the  main assemblies of the chassis are determined. Through the vehicle design calculation and analysis, it is ensured that the vehicle has reasonable power, driving range, braking performance, steering stability, driving comfort and passability
 
+![alt text]("https://github.com/LiLiu1118/Bachelorarbeit")
 
 <p float="left">
   <img src="https://github.com/LiLiu1118/Bachelorarbeit" />
