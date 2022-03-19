@@ -11,6 +11,5 @@ Finally,  the  structural  types,  characteristicparameters  and  arrangements  
 
 
 <p float="left">
-  <img src="https://github.com/LiLiu1118/Bachelorarbeit/blob/main/surface.jpg" width="300" height="300"/>
-  <img src="https://github.com/LiLiu1118/Bachelorarbeit/blob/main/simulation.jpg" width="600" height="300"/> 
+  <img src="https://github.com/LiLiu1118/Bachelorarbeit" />
 </p>
